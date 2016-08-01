@@ -1,0 +1,23 @@
+.bar-nav {
+    padding-top:12px;
+    background-color: #84BF41;
+    height: 60px;
+}
+
+header h1 {
+    color: #FFFFFF;
+}
+
+.bar-footer {
+    padding-bottom:12px;
+    height: inherit;
+}
+.bar-footer button {
+    margin: 4px 0 !important;
+}
+
+.content {
+    position: absolute;
+    top: 21px;
+    bottom: 70px;
+}
